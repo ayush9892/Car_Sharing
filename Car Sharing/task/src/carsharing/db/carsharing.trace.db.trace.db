@@ -1,0 +1,87 @@
+2022-11-27 12:25:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "triggers" not found (this database is empty); SQL statement:
+SELECT trigger_name FROM INFORMATION_SCHEMA.triggers WHERE trigger_schema='PUBLIC' [42104-214]
+2022-11-27 12:25:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "sequences" not found (this database is empty); SQL statement:
+SELECT sequence_name, 'START WITH '||(current_value+1) FROM INFORMATION_SCHEMA.sequences WHERE sequence_schema='PUBLIC' [42104-214]
+2022-11-27 12:25:06 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "constraints" not found (this database is empty); SQL statement:
+SELECT table_name, constraint_name, check_expression FROM INFORMATION_SCHEMA.constraints WHERE check_expression IS NOT NULL AND constraint_schema='PUBLIC' [42104-214]
+2022-11-27 12:32:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "triggers" not found (this database is empty); SQL statement:
+SELECT trigger_name FROM INFORMATION_SCHEMA.triggers WHERE trigger_schema='PUBLIC' [42104-214]
+2022-11-27 12:32:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "sequences" not found (this database is empty); SQL statement:
+SELECT sequence_name, 'START WITH '||(current_value+1) FROM INFORMATION_SCHEMA.sequences WHERE sequence_schema='PUBLIC' [42104-214]
+2022-11-27 12:32:41 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "constraints" not found (this database is empty); SQL statement:
+SELECT table_name, constraint_name, check_expression FROM INFORMATION_SCHEMA.constraints WHERE check_expression IS NOT NULL AND constraint_schema='PUBLIC' [42104-214]
+2022-11-27 12:32:49 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "triggers" not found (this database is empty); SQL statement:
+SELECT trigger_name FROM INFORMATION_SCHEMA.triggers WHERE trigger_schema='PUBLIC' [42104-214]
+2022-11-27 12:32:49 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "sequences" not found (this database is empty); SQL statement:
+SELECT sequence_name, 'START WITH '||(current_value+1) FROM INFORMATION_SCHEMA.sequences WHERE sequence_schema='PUBLIC' [42104-214]
+2022-11-27 12:32:51 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "constraints" not found (this database is empty); SQL statement:
+SELECT table_name, constraint_name, check_expression FROM INFORMATION_SCHEMA.constraints WHERE check_expression IS NOT NULL AND constraint_schema='PUBLIC' [42104-214]
+2022-11-27 12:40:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "triggers" not found (this database is empty); SQL statement:
+SELECT trigger_name FROM INFORMATION_SCHEMA.triggers WHERE trigger_schema='PUBLIC' [42104-214]
+2022-11-27 12:40:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "sequences" not found (this database is empty); SQL statement:
+SELECT sequence_name, 'START WITH '||(current_value+1) FROM INFORMATION_SCHEMA.sequences WHERE sequence_schema='PUBLIC' [42104-214]
+2022-11-27 12:40:41 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "constraints" not found (this database is empty); SQL statement:
+SELECT table_name, constraint_name, check_expression FROM INFORMATION_SCHEMA.constraints WHERE check_expression IS NOT NULL AND constraint_schema='PUBLIC' [42104-214]
+2022-11-27 12:40:56 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "triggers" not found (this database is empty); SQL statement:
+SELECT trigger_name FROM INFORMATION_SCHEMA.triggers WHERE trigger_schema='INFORMATION_SCHEMA' [42104-214]
+2022-11-27 12:40:56 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "sequences" not found (this database is empty); SQL statement:
+SELECT sequence_name, 'START WITH '||(current_value+1) FROM INFORMATION_SCHEMA.sequences WHERE sequence_schema='INFORMATION_SCHEMA' [42104-214]
+2022-11-27 12:40:58 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "triggers" not found (this database is empty); SQL statement:
+SELECT trigger_name FROM INFORMATION_SCHEMA.triggers WHERE trigger_schema='PUBLIC' [42104-214]
+2022-11-27 12:40:58 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "sequences" not found (this database is empty); SQL statement:
+SELECT sequence_name, 'START WITH '||(current_value+1) FROM INFORMATION_SCHEMA.sequences WHERE sequence_schema='PUBLIC' [42104-214]
+2022-11-27 12:41:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "constraints" not found (this database is empty); SQL statement:
+SELECT table_name, constraint_name, check_expression FROM INFORMATION_SCHEMA.constraints WHERE check_expression IS NOT NULL AND constraint_schema='INFORMATION_SCHEMA' [42104-214]
+2022-11-27 12:41:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "constraints" not found (this database is empty); SQL statement:
+SELECT table_name, constraint_name, check_expression FROM INFORMATION_SCHEMA.constraints WHERE check_expression IS NOT NULL AND constraint_schema='PUBLIC' [42104-214]
+2022-11-27 12:41:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "views" not found (this database is empty); SQL statement:
+SELECT table_name, view_definition FROM INFORMATION_SCHEMA.views WHERE table_schema='INFORMATION_SCHEMA' [42104-214]
+2022-11-27 12:45:18 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "triggers" not found (this database is empty); SQL statement:
+SELECT trigger_name FROM INFORMATION_SCHEMA.triggers WHERE trigger_schema='INFORMATION_SCHEMA' [42104-214]
+2022-11-27 12:45:18 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "sequences" not found (this database is empty); SQL statement:
+SELECT sequence_name, 'START WITH '||(current_value+1) FROM INFORMATION_SCHEMA.sequences WHERE sequence_schema='INFORMATION_SCHEMA' [42104-214]
+2022-11-27 12:45:18 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "triggers" not found (this database is empty); SQL statement:
+SELECT trigger_name FROM INFORMATION_SCHEMA.triggers WHERE trigger_schema='PUBLIC' [42104-214]
+2022-11-27 12:45:18 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "sequences" not found (this database is empty); SQL statement:
+SELECT sequence_name, 'START WITH '||(current_value+1) FROM INFORMATION_SCHEMA.sequences WHERE sequence_schema='PUBLIC' [42104-214]
+2022-11-27 12:45:18 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "constraints" not found (this database is empty); SQL statement:
+SELECT table_name, constraint_name, check_expression FROM INFORMATION_SCHEMA.constraints WHERE check_expression IS NOT NULL AND constraint_schema='INFORMATION_SCHEMA' [42104-214]
+2022-11-27 12:45:18 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "constraints" not found (this database is empty); SQL statement:
+SELECT table_name, constraint_name, check_expression FROM INFORMATION_SCHEMA.constraints WHERE check_expression IS NOT NULL AND constraint_schema='PUBLIC' [42104-214]
+2022-11-27 12:45:18 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "views" not found (this database is empty); SQL statement:
+SELECT table_name, view_definition FROM INFORMATION_SCHEMA.views WHERE table_schema='INFORMATION_SCHEMA' [42104-214]
+2022-11-27 19:46:57 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "triggers" not found (this database is empty); SQL statement:
+SELECT trigger_name FROM INFORMATION_SCHEMA.triggers WHERE trigger_schema='PUBLIC' [42104-214]
+2022-11-27 19:46:57 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "sequences" not found (this database is empty); SQL statement:
+SELECT sequence_name, 'START WITH '||(current_value+1) FROM INFORMATION_SCHEMA.sequences WHERE sequence_schema='PUBLIC' [42104-214]
+2022-11-27 19:46:59 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "constraints" not found (this database is empty); SQL statement:
+SELECT table_name, constraint_name, check_expression FROM INFORMATION_SCHEMA.constraints WHERE check_expression IS NOT NULL AND constraint_schema='PUBLIC' [42104-214]

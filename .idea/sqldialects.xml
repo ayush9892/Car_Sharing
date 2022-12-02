@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/Car Sharing/task/src/carsharing/Car/CarDao.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Car Sharing/task/src/carsharing/Car/CarDaoImp.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Car Sharing/task/src/carsharing/CarSharing.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Car Sharing/task/src/carsharing/Company/CompanyDao.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Car Sharing/task/src/carsharing/Company/CompanyDaoImp.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Car Sharing/task/src/carsharing/Customer/CustomerDao.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Car Sharing/task/src/carsharing/Customer/CustomerDaoImp.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Car Sharing/task/src/carsharing/Main.java" dialect="H2" />
+  </component>
+</project>
